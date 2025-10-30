@@ -65,7 +65,7 @@ print (classification_report1)
 ## Output:
 
 <img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/dccac94e-94a4-4022-83db-9b23080d9c2f" />
-
+### DATA
 <img width="897" height="257" alt="image" src="https://github.com/user-attachments/assets/1b20199f-6da2-424f-8c7e-995aefb8559c" />
 
 <img width="687" height="335" alt="image" src="https://github.com/user-attachments/assets/025cbd52-8ca9-4f8f-884c-7cbd5f1158cc" />
