@@ -65,13 +65,19 @@ print (classification_report1)
 ## Output:
 
 <img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/dccac94e-94a4-4022-83db-9b23080d9c2f" />
+
 DATA
+
 <img width="897" height="257" alt="image" src="https://github.com/user-attachments/assets/1b20199f-6da2-424f-8c7e-995aefb8559c" />
 
 <img width="687" height="335" alt="image" src="https://github.com/user-attachments/assets/025cbd52-8ca9-4f8f-884c-7cbd5f1158cc" />
+
 X TRAIN
+
 <img width="302" height="176" alt="image" src="https://github.com/user-attachments/assets/5264cca3-d2a8-46f5-85b0-cb5541b01bdb" />
+
 X TEST
+
 <img width="1552" height="262" alt="image" src="https://github.com/user-attachments/assets/86142af6-772c-47d1-9df6-79c8751ed390" />
 
 <img width="1552" height="307" alt="image" src="https://github.com/user-attachments/assets/80689ac6-0c39-4184-967d-e000e17a2c54" />
@@ -81,6 +87,8 @@ X TEST
 <img width="857" height="47" alt="image" src="https://github.com/user-attachments/assets/8fc46735-3d02-4f0c-8d89-51c6315672cf" />
 
 <img width="292" height="38" alt="image" src="https://github.com/user-attachments/assets/e2542121-5b9e-472b-82c3-27cbe07debae" />
+
+ACCURACY
 
 <img width="449" height="73" alt="image" src="https://github.com/user-attachments/assets/9d149c26-27f8-48a2-8c0a-a2c9f7e2b0cd" />
 
