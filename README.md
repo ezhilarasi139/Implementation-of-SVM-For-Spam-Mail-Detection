@@ -22,6 +22,7 @@ To write a program to implement the SVM For Spam Mail Detection.
 Program to implement the SVM For Spam Mail Detection..
 Developed by: EZHILARASI N
 RegisterNumber: 212224040088
+*/
 
 import chardet
 file='spam.csv'
@@ -59,7 +60,6 @@ from sklearn.metrics import classification_report
 classification_report1 = classification_report(y_test,y_pred)
 print (classification_report1)
 
-*/
 ```
 
 ## Output:
