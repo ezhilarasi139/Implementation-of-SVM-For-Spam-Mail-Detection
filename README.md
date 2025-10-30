@@ -86,11 +86,17 @@ X TEST
 
 <img width="857" height="47" alt="image" src="https://github.com/user-attachments/assets/8fc46735-3d02-4f0c-8d89-51c6315672cf" />
 
-<img width="292" height="38" alt="image" src="https://github.com/user-attachments/assets/e2542121-5b9e-472b-82c3-27cbe07debae" />
-
 ACCURACY
 
+<img width="292" height="38" alt="image" src="https://github.com/user-attachments/assets/e2542121-5b9e-472b-82c3-27cbe07debae" />
+
+CONFUSION MATRIX
+
 <img width="449" height="73" alt="image" src="https://github.com/user-attachments/assets/9d149c26-27f8-48a2-8c0a-a2c9f7e2b0cd" />
+
+CLASSIFICATION 
+
+<img width="692" height="300" alt="image" src="https://github.com/user-attachments/assets/aa032844-42dc-437b-a7af-7bd60908a421" />
 
 
 
