@@ -65,13 +65,13 @@ print (classification_report1)
 ## Output:
 
 <img width="1052" height="62" alt="image" src="https://github.com/user-attachments/assets/dccac94e-94a4-4022-83db-9b23080d9c2f" />
-### DATA
+DATA
 <img width="897" height="257" alt="image" src="https://github.com/user-attachments/assets/1b20199f-6da2-424f-8c7e-995aefb8559c" />
 
 <img width="687" height="335" alt="image" src="https://github.com/user-attachments/assets/025cbd52-8ca9-4f8f-884c-7cbd5f1158cc" />
-
+X TRAIN
 <img width="302" height="176" alt="image" src="https://github.com/user-attachments/assets/5264cca3-d2a8-46f5-85b0-cb5541b01bdb" />
-
+X TEST
 <img width="1552" height="262" alt="image" src="https://github.com/user-attachments/assets/86142af6-772c-47d1-9df6-79c8751ed390" />
 
 <img width="1552" height="307" alt="image" src="https://github.com/user-attachments/assets/80689ac6-0c39-4184-967d-e000e17a2c54" />
